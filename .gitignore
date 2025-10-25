@@ -22,3 +22,6 @@ rad.json
 TestResults.xml
 
 dataset/
+
+src/logs/
+src/p10/
